@@ -1,0 +1,14 @@
+build/
+dist/
+private/
++src/
++test/
++build.xml
++nbdist/
++nbactions.xml
++nb-configuration.xml
++.nb-gradle/
++nbbuild/
++dist/
++nbdist/
+
